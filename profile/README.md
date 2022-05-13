@@ -1,4 +1,4 @@
-![banner](banner.jpg)
+![banner](https://github.com/Iteam1/.github/tree/main/profile)
 ## Hi there 👋
 
 <!--
