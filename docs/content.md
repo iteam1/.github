@@ -1,16 +1,16 @@
 This is something you can write down on your `readme.md`
 
-### description
+### 1.description
 You must give the reader a description about your project. It will be better if you got image or `.gif` file.
 
-### implementation
+### 2.implementation
 You must write a instruction about how you implement your project.
 
-### common-command:
+### 3.common-command
 You shoud note some common cammands that you are always use on your terminal.
 
-### references
+### 4.references
 Your project always base on something.
 
-### mottos:
+### 5.mottos
 Sometime you can write down sentences help you do the right thing when you get lost, or just your think about programming, or life,etc.
