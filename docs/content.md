@@ -5,7 +5,7 @@ You must give the reader a description about your project. It will be better if 
 If you want descript a specify code file then you can give the link to that file by "[`your_code`](your_link)"
 
 ### 2.implementation
-You must write a instruction about how you implement your project.
+You must write a instruction about how you implement your project. ***step by step*
 
 ### 3.common-command
 You shoud note some common cammands that you are always use on your terminal.
