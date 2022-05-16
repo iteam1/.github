@@ -2,7 +2,7 @@ This is something you can write down on your `readme.md`
 
 ### 1.description
 You must give the reader a description about your project. It will be better if you got image or `.gif` file.
-If you want descript a specify code file then you can give the link to that file by "[`your_code`](your_link)"
+If you want descript a specify code file then you can give the link to that file by [`your_code`](your_link)
 
 ### 2.implementation
 You must write a instruction about how you implement your project. **step by step**
