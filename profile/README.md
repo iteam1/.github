@@ -7,8 +7,11 @@
      $$ | \$$$$  \$$$$$$$\\$$$$$$$ $$ | $$ | $$ $$$$$$\ 
      \__|  \____/ \_______|\_______\__| \__| \__\______|
 
-*we are geting stronger, and alway wellcome passionners.
-send us a email to address `iteam1.official@gmail.com` if you want to join with us*            
+Are you love coding have some idea?
+Do you want to join with the other developers and getting stronger?
+
+*iteam1 is wellcome the TRUELY passionners.
+send us a email to address `iteam1.official@gmail.com` if you want to join with us*
                                                    
 
                                                         
