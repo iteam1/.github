@@ -7,7 +7,8 @@
      $$ | \$$$$  \$$$$$$$\\$$$$$$$ $$ | $$ | $$ $$$$$$\ 
      \__|  \____/ \_______|\_______\__| \__| \__\______|
 
-                                                   
+*we are geting stronger, and alway wellcome passionners.
+send us a email to address `iteam1.official@gmail.com` if you want to join with us*            
                                                    
 
                                                         
