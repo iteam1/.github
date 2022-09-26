@@ -9,7 +9,5 @@ Are you love coding and have some idea?
 Do you want to join with the other developers and getting stronger?
 
 *iteam1 is wellcome the TRUELY passionners, send us a email to address `iteam1.official@gmail.com` if you want to join with us!*
-                                                   
-https://drive.google.com/drive/folders/1zzDiccx-L3M2VTJl4xlBxqA0-_AlY4Up
                                                         
                                                         
